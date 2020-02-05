@@ -1,0 +1,45 @@
+c:\users\elsis\documents\visual studio 2010\Projects\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+c:\users\elsis\documents\visual studio 2010\Projects\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+c:\users\elsis\documents\visual studio 2010\Projects\FlashCards\FlashCards\bin\Debug\FlashCards.xml
+c:\users\elsis\documents\visual studio 2010\Projects\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Form1.resources
+c:\users\elsis\documents\visual studio 2010\Projects\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Resources.resources
+c:\users\elsis\documents\visual studio 2010\Projects\FlashCards\FlashCards\obj\x86\Debug\FlashCards.vbproj.GenerateResource.Cache
+c:\users\elsis\documents\visual studio 2010\Projects\FlashCards\FlashCards\obj\x86\Debug\FlashCards.exe
+c:\users\elsis\documents\visual studio 2010\Projects\FlashCards\FlashCards\obj\x86\Debug\FlashCards.xml
+c:\users\elsis\documents\visual studio 2010\Projects\FlashCards\FlashCards\obj\x86\Debug\FlashCards.pdb
+G:\FlashCards\FlashCards\obj\x86\Debug\FlashCards.exe
+G:\FlashCards\FlashCards\obj\x86\Debug\FlashCards.xml
+G:\FlashCards\FlashCards\obj\x86\Debug\FlashCards.pdb
+G:\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+G:\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+G:\FlashCards\FlashCards\bin\Debug\FlashCards.xml
+G:\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Form1.resources
+G:\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Resources.resources
+G:\FlashCards\FlashCards\obj\x86\Debug\FlashCards.vbproj.GenerateResource.Cache
+C:\Users\ocpdc_4\Documents\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.exe
+C:\Users\ocpdc_4\Documents\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.xml
+C:\Users\ocpdc_4\Documents\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.pdb
+C:\Users\ocpdc_4\Documents\LAHAT NG OOP PROJECT\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+C:\Users\ocpdc_4\Documents\LAHAT NG OOP PROJECT\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+C:\Users\ocpdc_4\Documents\LAHAT NG OOP PROJECT\FlashCards\FlashCards\bin\Debug\FlashCards.xml
+C:\Users\ocpdc_4\Documents\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Form1.resources
+C:\Users\ocpdc_4\Documents\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Resources.resources
+C:\Users\ocpdc_4\Documents\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.vbproj.GenerateResource.Cache
+F:\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.exe
+F:\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.xml
+F:\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.pdb
+F:\LAHAT NG OOP PROJECT\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+F:\LAHAT NG OOP PROJECT\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+F:\LAHAT NG OOP PROJECT\FlashCards\FlashCards\bin\Debug\FlashCards.xml
+F:\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Form1.resources
+F:\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Resources.resources
+F:\LAHAT NG OOP PROJECT\FlashCards\FlashCards\obj\x86\Debug\FlashCards.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\FlashCards\FlashCards\obj\x86\Debug\FlashCards.exe
+C:\Users\ASUS\Desktop\FlashCards\FlashCards\obj\x86\Debug\FlashCards.xml
+C:\Users\ASUS\Desktop\FlashCards\FlashCards\obj\x86\Debug\FlashCards.pdb
+C:\Users\ASUS\Desktop\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+C:\Users\ASUS\Desktop\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+C:\Users\ASUS\Desktop\FlashCards\FlashCards\bin\Debug\FlashCards.xml
+C:\Users\ASUS\Desktop\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Form1.resources
+C:\Users\ASUS\Desktop\FlashCards\FlashCards\obj\x86\Debug\FlashCards.Resources.resources
+C:\Users\ASUS\Desktop\FlashCards\FlashCards\obj\x86\Debug\FlashCards.vbproj.GenerateResource.Cache
